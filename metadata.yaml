@@ -1,11 +1,16 @@
 _repo: Select-Books-Published-by-Mr-T-Fisher-Unwin_58923
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58923-h/images/cover.jpg
 creator:
   author:
     agent_name: Unwin, T. Fisher
     gutenberg_agent_id: '50211'
     url: http://www.gutenberg.org/2009/agents/50211
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58923#Select-Books-Published-by-Mr-T-Fisher-Unwin
 gutenberg_issued: '2019-02-20'
 gutenberg_type: Text
 identifiers:
